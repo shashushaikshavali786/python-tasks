@@ -1,3 +1,0 @@
-file_extension = input("input_the_file: ")
-extension_file = 'python'
-print("the_extension_of_file_is: "+extension_file)
